@@ -1,0 +1,39 @@
+names:
+- acari
+- amphipoda
+- annelida
+- araneae
+- archaeognatha
+- blattodea
+- carabidae
+- chilopoda
+- cicadidae
+- coleoptera
+- coleoptera_larva
+- collembola
+- diplopoda
+- diptera
+- formicidae
+- gastropoda
+- hemiptera
+- hymenoptera
+- isopoda
+- lepidoptera
+- opiliones
+- orthoptera
+- pentatomidae
+- phasmatodea
+- pseudoscorpiones
+- reduviidae
+- tipulidae
+- vespidae
+nc: 28
+roboflow:
+  license: CC BY 4.0
+  project: dishbugs-insseg
+  url: https://universe.roboflow.com/dishbugs/dishbugs-insseg/dataset/17
+  version: 17
+  workspace: dishbugs
+test: D:/Dropbox/data/dishBugs/images/whole_dish/test/images
+train: D:/Dropbox/data/dishBugs/images/whole_dish/train/images
+val: D:/Dropbox/data/dishBugs/images/whole_dish/valid/images
